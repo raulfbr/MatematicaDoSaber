@@ -8,3 +8,6 @@ next-env.d.ts
 *.pem
 .DS_Store
 *debug.log*
+
+.vercel
+.env*
